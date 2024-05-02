@@ -246,7 +246,6 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 **Fig. 4.1.1** Network of the -1–1–1–1–1–1 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/-1-1-1-1-1-1_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024_pre.jpg)
-
 **Map. 4.1.1** Countries of the -1-1-1-1-1-1 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/5b58602c12bbb72855ba0cdac645ed03.js"></script>
@@ -256,6 +255,9 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 <script src="https://gist.github.com/sobolsky/9edde4cc2dfbb645b449af442ebd130c.js"></script>
 
 **Table 4.1.3** The -1–1–1–1–1–1 group indicator values relative to UNGA member countries
+
+![MacDown Screenshot](res/single_group_short_reports/pict/![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024_pre.jpg)
+**Diag. 4.1.1** The values of indicators for all countries in the -1–1–1–1–1–1 group relative to the values of these same indicators for all member countries of the UNGA
 
 ### 4.2 Группа полной солидарности 00–10–10
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **00–10–10** includes **4** UNGA member countries:
