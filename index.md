@@ -1,10 +1,10 @@
 ---
-layout: default
 title: Anatomy of Solidarity
 description: Anatomy of Solidarity in United Nations Voting
 show_downloads: false
 google_analytics:
-permalink: /upc
+theme: jekyll-theme-cayman
+# permalink: /upc
 ---
 
 # 1. Ukraine Political Conditions (2022–2023) - Research Highlights
