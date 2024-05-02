@@ -43,9 +43,9 @@ Below in **Fig. 1** is the `Complete Solidarity Network`. This network is the ke
 
 **Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](./res/upc_full.jpg){:target="_blank"}
 
-![MacDown Screenshot](./res/upc_full_pre.jpg)
+![MacDown Screenshot](res/upc_full_pre.jpg)
 
-**Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](./res/upc_full.jpg){:target="_blank"}
+**Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](res/upc_full.jpg){:target="_blank"}
 
 > [!NOTE]
 > Download the `Complete Solidarity Network (Population)` in JPEG format [usg_full.jpg](https://raw.githubusercontent.com/alexbukreev/UN_USG_2023/main/usg_full.jpg).
