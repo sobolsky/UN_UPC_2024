@@ -453,13 +453,10 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 **Fig. 4.10.1** Network of the 111111 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111111_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111111_map_2024_pre.jpg)
-
 **Map. 4.10.1** Countries of the 111111 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/111111_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/ed15d604cbcfa1fa6c48724250c9e8a4.js"></script>
-
 **Table 4.10.2** Leading country in the 111111 group by key indicators
 
 <script src="https://gist.github.com/sobolsky/336f35754de189b6961bd65bae30cf16.js"></script>
-
 **Table 4.10.3** The 111111 group indicator values relative to UNGA member countries
