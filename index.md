@@ -256,7 +256,7 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 **Table 4.1.3** The -1–1–1–1–1–1 group indicator values relative to UNGA member countries
 
-![MacDown Screenshot](res/single_group_short_reports/pict/![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024_pre.jpg)
+![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_indicator_values_relative_2024.png)
 **Diag. 4.1.1** The values of indicators for all countries in the -1–1–1–1–1–1 group relative to the values of these same indicators for all member countries of the UNGA
 
 ### 4.2 Группа полной солидарности 00–10–10
@@ -282,6 +282,9 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 **Table 4.2.3** The 00–10–10 group indicator values relative to UNGA member countries
 
+![MacDown Screenshot](res/single_group_short_reports/pict/00-10-10_indicator_values_relative_2024.png)
+**Diag. 4.2.1** The values of indicators for all countries in the 00-10-10 group relative to the values of these same indicators for all member countries of the UNGA
+
 ### 4.3 Group 00–1000
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **00–1000** includes **9** UNGA member countries:
 
@@ -305,6 +308,9 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 **Table 4.3.3** The 00–1000 group indicator values relative to UNGA member countries.
 
+![MacDown Screenshot](res/single_group_short_reports/pict/00-1000_indicator_values_relative_2024.png)
+**Diag. 4.3.1** The values of indicators for all countries in the 00-1000 group relative to the values of these same indicators for all member countries of the UNGA
+
 ### 4.4 Group 000000
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **000000** includes **9** UNGA member countries (the countries in this group abstained from voting on all resolutions):
 
@@ -322,11 +328,14 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/e853b9c575dece0703ec81144102636c.js"></script>
 
-**Table 4.4.2** Leading country in the 000000 group by key indicators
+**Table 4.4.2** Leading country in the 000000 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/8b28c693bdc1507e3f976eff145ef337.js"></script>
 
-**Table 4.5.3** The 000000 group indicator values relative to UNGA member countries
+**Table 4.5.3** The 000000 group indicator values relative to UNGA member countries.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/000000_indicator_values_relative_2024.png)
+**Diag. 4.4.1** The values of indicators for all countries in the 000000 group relative to the values of these same indicators for all member countries of the UNGA
 
 ### 4.5 Group 100101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **100101** includes **2** UNGA member countries:
@@ -345,11 +354,15 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/34fda711d1c69ec696e230803e380d58.js"></script>
 
-**Table 4.5.2** Leading country in the 100101 group by key indicators
+
+**Table 4.5.2** Leading country in the 100101 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/bda21e3cc006352fb8bb3e895d6de0e1.js"></script>
 
-**Table 4.5.3** The 100101 group indicator values relative to UNGA member countries
+**Table 4.5.3** The 100101 group indicator values relative to UNGA member countries.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/100101_indicator_values_relative_2024.png)
+**Diag. 4.5.1** The values of indicators for all countries in the 100101 group relative to the values of these same indicators for all member countries of the UNGA
 
 ### 4.6 Group 110001
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110001** includes **2** UNGA member countries:
@@ -374,6 +387,9 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 **Table 4.6.3** The 110001 group indicator values relative to UNGA member countries
 
+![MacDown Screenshot](res/single_group_short_reports/pict/110001_indicator_values_relative_2024.png)
+**Diag. 4.6.1** The values of indicators for all countries in the 110001 group relative to the values of these same indicators for all member countries of the UNGA
+
 ### 4.7 Group 110101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110101** includes **23** UNGA member countries:
 
@@ -386,8 +402,7 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 **Fig. 4.7.1** Network of the 110101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110101_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110101_map_2024_pre.jpg)
-
-**Map. 4.7.1** Countries of the 110101 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/1101011_map_2024.png){:target="_blank"}
+**Map. 4.7.1** Countries of the 110101 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/110101_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/ff7b86d3d7a5f925a1d0f408eebd604e.js"></script>
 
@@ -396,6 +411,9 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 <script src="https://gist.github.com/sobolsky/2d3bc7e7e3583aeccf69b2990b2c1fb6.js"></script>
 
 **Table 4.7.3** The 1101011 group indicator values relative to UNGA member countries
+
+![MacDown Screenshot](res/single_group_short_reports/pict/110101_indicator_values_relative_2024.png)
+**Diag. 4.7.1** The values of indicators for all countries in the 110101 group relative to the values of these same indicators for all member countries of the UNGA
 
 ### 4.8 Group 110111
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110111** includes **10** UNGA member countries:
@@ -420,6 +438,9 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 **Table 4.8.3** The 110111 group indicator values relative to UNGA member countries
 
+![MacDown Screenshot](res/single_group_short_reports/pict/110111_indicator_values_relative_2024.png)
+**Diag. 4.8.1** The values of indicators for all countries in the 110111 group relative to the values of these same indicators for all member countries of the UNGA
+
 ### 4.9 Group 111101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **111101** includes **10** UNGA member countries:
 
@@ -437,11 +458,14 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/c02702400dc2da9f2a3c2ac04944b5e5.js"></script>
 
-**Table 4.9.2** Leading country in the 111101 group by key indicators
+**Table 4.9.2** Leading country in the 111101 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/1171e709fe9e8eb86aa061ff497c7a83.js"></script>
 
-**Table 4.9.3** The 111101 group indicator values relative to UNGA member countries
+**Table 4.9.3** The 111101 group indicator values relative to UNGA member countries.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/111101_indicator_values_relative_2024.png)
+**Diag. 4.9.1** The values of indicators for all countries in the 111101 group relative to the values of these same indicators for all member countries of the UNGA
 
 ### 4.10 Group 111111
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **111111** includes **76** UNGA member countries (The countries in this group voted in favor of all 6 resolutions):
@@ -453,14 +477,16 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/111111_net_100_pre.jpg)
 **Fig. 4.10.1** Network of the 111111 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111111_net_100.jpg){:target="_blank"}
 
-
 ![MacDown Screenshot](res/single_group_short_reports/pict/111111_map_2024_pre.jpg)
 **Map. 4.10.1** Countries of the 111111 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/111111_map_2024.png){:target="_blank"}
 
-
 <script src="https://gist.github.com/sobolsky/ed15d604cbcfa1fa6c48724250c9e8a4.js"></script>
+
 **Table 4.10.2** Leading country in the 111111 group by key indicators
 
-
 <script src="https://gist.github.com/sobolsky/336f35754de189b6961bd65bae30cf16.js"></script>
+
 **Table 4.10.3** The 111111 group indicator values relative to UNGA member countries
+
+![MacDown Screenshot](res/single_group_short_reports/pict/111111_indicator_values_relative_2024.png)
+**Diag. 4.10.1** The values of indicators for all countries in the 111111 group relative to the values of these same indicators for all member countries of the UNGA
