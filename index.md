@@ -1,7 +1,9 @@
 ---
 layout: default
-# title: Another page
-# description: This is just another page
+title: UN Solidarity Projects
+description: Anatomy of Solidarity in United Nations Voting
+show_downloads: false
+google_analytics:
 permalink: /un/upc
 ---
 
