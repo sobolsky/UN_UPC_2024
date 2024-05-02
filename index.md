@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anatomy of Solidarity
-description: in United Nations Voting
+description: in United Nations General Assembly Voting
 show_downloads: false
 google_analytics:
 permalink: /un/upc
