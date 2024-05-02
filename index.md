@@ -9,7 +9,7 @@ theme: jekyll-theme-cayman
 # 1. Ukraine Political Conditions (2022–2023) - Research Highlights
 
 ## Intro
-This is the first article in a series dedicated to the study of the nature of political solidarity in the voting of the United Nations General Assembly (UNGA) on six resolutions within the theme 'UKRAINE - POLITICAL CONDITIONS' for the years 2022–2023. At the time of publication of this article, the UNGA voting in 2024 on this topic had not taken place.
+This is the first article in a series dedicated to summarizing the voting outcomes of the United Nations General Assembly (UNGA) on six resolutions within the theme ‘UKRAINE - POLITICAL CONDITIONS’ for the years 2022–2023. At the time of publication of this article, the UNGA voting in 2024 on this topic had not taken place.
 
 List of resolutions examined in this study:
 
@@ -137,7 +137,7 @@ Similarly to the previous two tables, **Table 1.1.4** has been constructed to co
 
 **Table 1.1.4.** Country-specific and demographic indicators for two types of countries — those with complete and incomplete `Voting Profiles`.
 
-Below is a bar plot (**Fig. 1.1.3**) constructed based on the values of Country Share, %, and Relative Population, % from **Table 1.1.4**.
+Below is a bar plot (**Fig. 1.1.4**) constructed based on the values of Country Share, %, and Relative Population, % from **Table 1.1.4**.
 
 ![MacDown Screenshot](res/votes_profiles_reports/vpt_plot_upc_2024_pre.png)
 **Fig. 1.1.4** Country-specific and demographic indicators for two types of countries — those with complete and incomplete `Voting Profiles`. [Click to enlarge the image](res/votes_profiles_reports/vpt_plot_upc_2024.png){:target="_blank"}
@@ -497,3 +497,8 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111111_world_map_2024_pre.jpg)
 **Map. 4.10.2** Countries of the 111111 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/111111_world_map_2024.png){:target="_blank"}
+
+## 5. Conclusion
+This article is the first in a series of articles titled “Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023).” Further publications are planned for each Solidarity Group separately, as well as a final comparative article on these groups.
+
+The terms used in this article can be found at the link [glossary.md](https://sobolsky.github.io/un/glossary){:target="_blank"}.
