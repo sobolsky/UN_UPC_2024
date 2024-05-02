@@ -39,7 +39,6 @@ Quantitative analysis of `Solidarity Groups` is based on three indicators for ea
 Below in **Fig. 1** is the `Complete Solidarity Network`. This network is the key outcome of the study on voting regarding the theme of *Ukraine Political Conditions (2022–2023) in the UN*. Subsequently, in this article, the principles of constructing this network will be discussed, along with some research findings based on it.
 
 ![MacDown Screenshot](res/upc_full_pre.jpg)
-
 **Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](res/upc_full.jpg){:target="_blank"}
 
 > **Download** the `Complete Solidarity Network (Population)` in JPEG format [usg_full.jpg](res/upc_full.jpg){:target="_blank"}.
@@ -114,23 +113,22 @@ Thus, all 193 participating countries formed 46 `Voting Profiles`. **Table 1.1.2
 
 <script src="https://gist.github.com/sobolsky/3a11fdd89a13b4b3fe746bf4bcbf3d26.js"></script>
 
-**Table 1.1.2.** Country and demographic indicators for all 46 `Voting Profiles` (aggregated by `Voting Profile`)
+**Table 1.1.2.** Country and demographic indicators for all 46 `Voting Profiles` (aggregated by `Voting Profile`).
 
 For clarity, below is a bar plot (**Fig. 1.1.1**) constructed based on the values of relative country-specific and demographic indicators from **Table 1.1.2**.
 
 ![MacDown Screenshot](res/votes_profiles_reports/vp_plot_upc_2024_pre.png)
-
 **Fig. 1.1.1** Relative country-specific and demographic Indicators for All 46 `Voting Profiles` (aggregated by `Votes profile`). [Click to enlarge the image](res/votes_profiles_reports/vp_plot_upc_2024.png){:target="_blank"}
 
 Similarly to **Table 1.1.2**, **Table 1.1.3** has been constructed, where the Voting Participation Degree is used instead of the `Voting Profile` as the basis.
 
 <script src="https://gist.github.com/sobolsky/112b23a8cc831f28c28300699ffb75da.js"></script>
 
-**Table 1.1.3** Country and demographic indicators for different values of the `Voting Participation Degree` (aggregated by `Voting Participation Degree`)
+**Table 1.1.3** Country and demographic indicators for different values of the `Voting Participation Degree` (aggregated by `Voting Participation Degree`).
 
 For clarity, below is a bar plot (**Fig. 1.1.2**) constructed based on the values of Country Share, %, and Relative Population, % from **Table 1.1.3**.
-![MacDown Screenshot](res/votes_profiles_reports/vpr_plot_upc_2024_pre.png)
 
+![MacDown Screenshot](res/votes_profiles_reports/vpr_plot_upc_2024_pre.png)
 **Fig. 1.1.3** Relative country-specific and demographic indicators for all values of the `Voting Participation Degree`. [Click to enlarge the image](res/votes_profiles_reports/vpr_plot_upc_2024.png){:target="_blank"}
 
 Similarly to the previous two tables, **Table 1.1.4** has been constructed to compare countries with complete and incomplete `Voting Profiles`. The values in this table can indicate the degree of involvement in the voting process for countries with these types of `Voting Profiles`. That is, the majority of countries (160 out of 193, 83%) are fully engaged in the voting topic, as they have a `Complete Voting Profile`.
@@ -142,17 +140,14 @@ Similarly to the previous two tables, **Table 1.1.4** has been constructed to co
 Below is a bar plot (**Fig. 1.1.3**) constructed based on the values of Country Share, %, and Relative Population, % from **Table 1.1.4**.
 
 ![MacDown Screenshot](res/votes_profiles_reports/vpt_plot_upc_2024_pre.png)
-
 **Fig. 1.1.4** Country-specific and demographic indicators for two types of countries — those with complete and incomplete `Voting Profiles`. [Click to enlarge the image](res/votes_profiles_reports/vpt_plot_upc_2024.png){:target="_blank"}
 
 Below, in **Fig. 1.1.5** and **Fig. 1.1.6**, two maps are provided, showing countries with complete and incomplete `Voting Profiles` respectively. The size of the circles corresponds to the values of `Relative Population`, % of these countries.
 
 ![MacDown Screenshot](res/votes_profiles_reports/full_prof_world_map_2024_pre.png)
-
 **Fig. 1.1.5** Countries with `Complete Voting Profiles` and their Relative Population, %. [Click to enlarge the image](res/votes_profiles_reports/full_prof_world_map_2024.png){:target="_blank"}
 
 ![MacDown Screenshot](res/votes_profiles_reports/no_full_prof_world_map_2024_pre.png)
-
 **Fig. 1.1.6** Countries with `Incomplete Voting Profiles` and their Relative Population, %. [Click to enlarge the image](res/votes_profiles_reports/no_full_prof_world_map_2024.png){:target="_blank"}
 
 > **The main conclusion** that can be drawn from the analysis of `Voting Profiles` is that countries with the most active participation in voting (with `Complete Voting Profiles`) have significant weight both in terms of the number of countries (82% of all participating countries) and in terms of population (90% of the total population of participating countries).
@@ -175,7 +170,6 @@ In total, there are 21 `Complete Voting Profiles` for this voting theme: -1–1�
 Below, based on the relative country-specific and demographic indicators from **Table 1.2.1**, a bar plot **Fig. 1.2.1** is constructed.
 
 ![MacDown Screenshot](res/sol_groups_reports/csg_plot_upc_2024_pre.png)
-
 **Fig. 1.2.1** `Complete Solidarity Groups` with country-specific and demographic Indicators. [Click to enlarge the image](res/sol_groups_reports/csg_plot_upc_2024.png){:target="_blank"}
 
 Below, **Table 1.2.2** compares these indicators for countries forming `Complete Solidarity Groups` and other `Voting Profile` countries in the voting (“Other Countries Groups” in the table).
@@ -185,7 +179,6 @@ Below, **Table 1.2.2** compares these indicators for countries forming `Complete
 **Table 1.2.2** Indicators for countries forming `Complete Solidarity Groups` and Other Countries Groups in the voting.
 
 ![MacDown Screenshot](res/sol_groups_reports/tsg_plot_upc_2024_pre.png)
-
 **Fig. 1.2.2** Country-specific and demographic indicators for Complete Solidarity Group countries and Other Countries Groups in the voting. [Click to enlarge the image](res/sol_groups_reports/tsg_plot_upc_2024.png){:target="_blank"}
 
 > **The main conclusion** drawn from comparing `Complete Solidarity Group` countries with other participating countries in the voting is that the countries forming `Complete Solidarity Groups` hold significant weight both in terms of the number of countries (77% of all participating countries) and the population size (86% of the total population of participating countries). In the `Solidarity Network`, these form the main core clusters of the network.
@@ -227,7 +220,6 @@ To visualize the `Solidarity Network`, we used the Gephi software. The network l
 Below, in **Fig. 1.3.1**, the `Solidarity Network` is depicted with lines drawn to represent a 100% Solidarity Degree Network. The 100% `Solidarity Degree Network` is the `Solidarity Network` that includes all participating voting countries and visualizes edges with `Solidarity Degree` values between these countries equal to 100% (weight = 1).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/upc_100_pre.jpg)
-
 **Fig. 1.3.1** 100% Solidarity Degree Network (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/upc_100.jpg){:target="_blank"}
 
 ## 4. Complete Solidarity Groups
@@ -239,7 +231,7 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/fdb2278fc2b68013bee40a7768b7321f.js"></script>
 
-**Table 4.1.1** The -1–1–1–1–1–1 group composition with key indicators (sorted by Population size)
+**Table 4.1.1** The -1–1–1–1–1–1 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/-1-1-1-1-1-1_net_100_pre.jpg)
 
@@ -250,54 +242,57 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/5b58602c12bbb72855ba0cdac645ed03.js"></script>
 
-**Table 4.1.2** Leading country in the -1–1–1–1–1–1 group by key indicators
+**Table 4.1.2** Leading country in the -1–1–1–1–1–1 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/9edde4cc2dfbb645b449af442ebd130c.js"></script>
 
-**Table 4.1.3** The -1–1–1–1–1–1 group indicator values relative to UNGA member countries
+**Table 4.1.3** The -1–1–1–1–1–1 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_indicator_values_relative_2024.png)
-**Diag. 4.1.1** The values of indicators for all countries in the -1–1–1–1–1–1 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.1.1** The values of indicators for all countries in the -1–1–1–1–1–1 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_world_map_2024_pre.jpg)
+**Map. 4.1.2** Countries of the -1–1–1–1–1–1 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/-1-1-1-1-1-1_world_map_2024.png){:target="_blank"}
+
 
 ### 4.2 Группа полной солидарности 00–10–10
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **00–10–10** includes **4** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/2c4dc521ab972dbe80efa9ec04c9e502.js"></script>
 
-**Table 4.2.1** The 00–10–10 group composition with key indicators (sorted by Population size)
+**Table 4.2.1** The 00–10–10 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/00–10–10_net_100_pre.jpg)
-
 **Fig. 4.2.1** Network of the 00–10–10 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/00–10–10_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/00-10-10_map_2024_pre.jpg)
-
 **Map. 4.2.1** Countries of the 00–10–10 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/00-10-10_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/4a3b71b76d9c55cdc280b897e86f401f.js"></script>
 
-**Table 4.2.2** Leading country in the 00–10–10 group by key indicators
+**Table 4.2.2** Leading country in the 00–10–10 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/7fc5ff3125b37bd6430477a1977a0a14.js"></script>
 
-**Table 4.2.3** The 00–10–10 group indicator values relative to UNGA member countries
+**Table 4.2.3** The 00–10–10 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/00-10-10_indicator_values_relative_2024.png)
-**Diag. 4.2.1** The values of indicators for all countries in the 00-10-10 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.2.1** The values of indicators for all countries in the 00-10-10 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/00-10-10_world_map_2024_pre.jpg)
+**Map. 4.2.2** Countries of the 00-10-10 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/00-10-10_world_map_2024.png){:target="_blank"}
 
 ### 4.3 Group 00–1000
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **00–1000** includes **9** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/bc204d85942494c9d68b7ee061645d8b.js"></script>
 
-**Table 4.3.1** The 00–1000 group composition with key indicators (sorted by Population size)
+**Table 4.3.1** The 00–1000 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/00–1000_net_100_pre.jpg)
-
 **Fig. 4.3.1** Network of the 00–1000 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/00-1000_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/00-1000_map_2024_pre.jpg)
-
 **Map. 4.3.1** Countries of the 00–1000 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/00-1000_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/81e3b303026a605f768fe0e7984ee5b1.js"></script>
@@ -311,19 +306,20 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 ![MacDown Screenshot](res/single_group_short_reports/pict/00-1000_indicator_values_relative_2024.png)
 **Diag. 4.3.1** The values of indicators for all countries in the 00-1000 group relative to the values of these same indicators for all member countries of the UNGA
 
+![MacDown Screenshot](res/single_group_short_reports/pict/00-1000_world_map_2024_pre.jpg)
+**Map. 4.3.2** Countries of the 00-1000 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/00-1000_world_map_2024.png){:target="_blank"}
+
 ### 4.4 Group 000000
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **000000** includes **9** UNGA member countries (the countries in this group abstained from voting on all resolutions):
 
 <script src="https://gist.github.com/sobolsky/11faaa72154a23ef2df6a231e8f8cabb.js"></script>
 
-**Table 4.4.1** The 000000 group composition with key indicators (sorted by Population size)
+**Table 4.4.1** The 000000 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/000000_net_100_pre.jpg)
-
 **Fig. 4.4.1** Network of the 0000000 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/000000_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/000000_map_2024_pre.jpg)
-
 **Map. 4.4.1** Countries of the 000000 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/000000_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/e853b9c575dece0703ec81144102636c.js"></script>
@@ -337,23 +333,23 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 ![MacDown Screenshot](res/single_group_short_reports/pict/000000_indicator_values_relative_2024.png)
 **Diag. 4.4.1** The values of indicators for all countries in the 000000 group relative to the values of these same indicators for all member countries of the UNGA
 
+![MacDown Screenshot](res/single_group_short_reports/pict/000000_world_map_2024_pre.jpg)
+**Map. 4.4.2** Countries of the 000000 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/000000_world_map_2024.png){:target="_blank"}
+
 ### 4.5 Group 100101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **100101** includes **2** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/6480bdc2c433b62b6ac2eff93d5d20df.js"></script>
 
-**Table 4.5.1** The 100101 group composition with key indicators (sorted by Population size)
+**Table 4.5.1** The 100101 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/100101_net_100_pre.jpg)
-
 **Fig. 4.5.1** Network of the 100101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/100101_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/100101_map_2024_pre.jpg)
-
 **Map. 4.5.1** Countries of the 100101 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/100101_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/34fda711d1c69ec696e230803e380d58.js"></script>
-
 
 **Table 4.5.2** Leading country in the 100101 group by key indicators.
 
@@ -362,41 +358,44 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 **Table 4.5.3** The 100101 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/100101_indicator_values_relative_2024.png)
-**Diag. 4.5.1** The values of indicators for all countries in the 100101 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.5.1** The values of indicators for all countries in the 100101 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/100101_world_map_2024_pre.jpg)
+**Map. 4.5.2** Countries of the 100101 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/100101_world_map_2024.png){:target="_blank"}
 
 ### 4.6 Group 110001
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110001** includes **2** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/17ebf3180c5a205409afc2f6ab383f44.js"></script>
 
-**Table 4.6.1** The 110001 group composition with key indicators (sorted by Population size)
+**Table 4.6.1** The 110001 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/110001_net_100_pre.jpg)
-
 **Fig. 4.6.1** Network of the 110001 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110001_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110001_map_2024_pre.jpg)
-
 **Map. 4.6.1** Countries of the 110001 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/110001_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/ef6e6495eedfb97bf93af253798ac2b7.js"></script>
 
-**Table 4.6.2** Leading country in the 110001 group by key indicators
+**Table 4.6.2** Leading country in the 110001 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/3c1ed36e4df46fcdc6f3ed0f202bee71.js"></script>
 
-**Table 4.6.3** The 110001 group indicator values relative to UNGA member countries
+**Table 4.6.3** The 110001 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110001_indicator_values_relative_2024.png)
-**Diag. 4.6.1** The values of indicators for all countries in the 110001 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.6.1** The values of indicators for all countries in the 110001 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/110001_world_map_2024_pre.jpg)
+**Map. 4.6.2** Countries of the 110001 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/110001_world_map_2024.png){:target="_blank"}
 
 ### 4.7 Group 110101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110101** includes **23** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/0d8291131d58d6b0a935aa23cce0da20.js"></script>
 
-**Table 4.7.1** The 110101 group composition with key indicators (sorted by Population size)
-
+**Table 4.7.1** The 110101 group composition with key indicators (sorted by Population size).
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/110101_net_100_pre.jpg)
 
 **Fig. 4.7.1** Network of the 110101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110101_net_100.jpg){:target="_blank"}
@@ -406,54 +405,56 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/ff7b86d3d7a5f925a1d0f408eebd604e.js"></script>
 
-**Table 4.7.2** Leading country in the 1101011 group by key indicators
+**Table 4.7.2** Leading country in the 1101011 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/2d3bc7e7e3583aeccf69b2990b2c1fb6.js"></script>
 
-**Table 4.7.3** The 1101011 group indicator values relative to UNGA member countries
+**Table 4.7.3** The 1101011 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110101_indicator_values_relative_2024.png)
-**Diag. 4.7.1** The values of indicators for all countries in the 110101 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.7.1** The values of indicators for all countries in the 110101 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/110101_world_map_2024_pre.jpg)
+**Map. 4.7.2** Countries of the 110101 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/110101_world_map_2024.png){:target="_blank"}
 
 ### 4.8 Group 110111
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110111** includes **10** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/c531ab224b76edc2b94ee8b5a69ffa36.js"></script>
 
-**Table 4.8.1** The 110111 group composition with key indicators (sorted by Population size)
+**Table 4.8.1** The 110111 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/110111_net_100_pre.jpg)
-
 **Fig. 4.8.1** Network of the 110111 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110111_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110111_map_2024_pre.jpg)
-
 **Map. 4.8.1** Countries of the 110111 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/110111_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/a6ffdbf683f6aa5d72a3619928687e40.js"></script>
 
-**Table 4.8.2** Leading country in the 110111 group by key indicators
+**Table 4.8.2** Leading country in the 110111 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/f957c2092aafe2576483d5d3a7e53b8b.js"></script>
 
-**Table 4.8.3** The 110111 group indicator values relative to UNGA member countries
+**Table 4.8.3** The 110111 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110111_indicator_values_relative_2024.png)
-**Diag. 4.8.1** The values of indicators for all countries in the 110111 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.8.1** The values of indicators for all countries in the 110111 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/110111_world_map_2024_pre.jpg)
+**Map. 4.8.2** Countries of the 110111 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/110111_world_map_2024.png){:target="_blank"}
 
 ### 4.9 Group 111101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **111101** includes **10** UNGA member countries:
 
 <script src="https://gist.github.com/sobolsky/7c7c631606dca824c6e52ee462bcf7a5.js"></script>
 
-**Table 4.9.1** The 111101 group composition with key indicators (sorted by Population size)
+**Table 4.9.1** The 111101 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/111101_net_100_pre.jpg)
-
 **Fig. 4.9.1** Network of the 111101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111101_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111101_map_2024_pre.jpg)
-
 **Map. 4.9.1** Countries of the 111101 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/111101_map_2024.png){:target="_blank"}
 
 <script src="https://gist.github.com/sobolsky/c02702400dc2da9f2a3c2ac04944b5e5.js"></script>
@@ -465,14 +466,17 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 **Table 4.9.3** The 111101 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111101_indicator_values_relative_2024.png)
-**Diag. 4.9.1** The values of indicators for all countries in the 111101 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.9.1** The values of indicators for all countries in the 111101 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/111101_world_map_2024_pre.jpg)
+**Map. 4.9.2** Countries of the 111101 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/111101_world_map_2024.png){:target="_blank"}
 
 ### 4.10 Group 111111
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **111111** includes **76** UNGA member countries (The countries in this group voted in favor of all 6 resolutions):
 
 <script src="https://gist.github.com/sobolsky/b3af1b90e7ac34b1bcd4c434ee0a0781.js"></script>
 
-**Table 4.10.1** The 111111 group composition with key indicators (sorted by Population size)
+**Table 4.10.1** The 111111 group composition with key indicators (sorted by Population size).
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/111111_net_100_pre.jpg)
 **Fig. 4.10.1** Network of the 111111 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111111_net_100.jpg){:target="_blank"}
@@ -482,11 +486,14 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 <script src="https://gist.github.com/sobolsky/ed15d604cbcfa1fa6c48724250c9e8a4.js"></script>
 
-**Table 4.10.2** Leading country in the 111111 group by key indicators
+**Table 4.10.2** Leading country in the 111111 group by key indicators.
 
 <script src="https://gist.github.com/sobolsky/336f35754de189b6961bd65bae30cf16.js"></script>
 
-**Table 4.10.3** The 111111 group indicator values relative to UNGA member countries
+**Table 4.10.3** The 111111 group indicator values relative to UNGA member countries.
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111111_indicator_values_relative_2024.png)
-**Diag. 4.10.1** The values of indicators for all countries in the 111111 group relative to the values of these same indicators for all member countries of the UNGA
+**Diag. 4.10.1** The values of indicators for all countries in the 111111 group relative to the values of these same indicators for all member countries of the UNGA.
+
+![MacDown Screenshot](res/single_group_short_reports/pict/111111_world_map_2024_pre.jpg)
+**Map. 4.10.2** Countries of the 111111 group on the map and the relative distribution of population density within them (red) and other UN General Assembly member countries (gray). [Click to enlarge the image](res/single_group_short_reports/pict/111111_world_map_2024.png){:target="_blank"}
