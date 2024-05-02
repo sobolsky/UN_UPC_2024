@@ -1,12 +1,12 @@
 ---
-title: Anatomy of Solidarity
-description: Anatomy of Solidarity in United Nations Voting
+title: Anatomy of Solidarity in UN Voting
+description: Ukraine Political Conditions (2022–2023)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 ---
 
-# 1. Ukraine Political Conditions (2022–2023) - Research Highlights
+# 1. Research Highlights
 
 ## Intro
 This is the first article in a series dedicated to summarizing the voting outcomes of the United Nations General Assembly (UNGA) on six resolutions within the theme ‘UKRAINE - POLITICAL CONDITIONS’ for the years 2022–2023. At the time of publication of this article, the UNGA voting in 2024 on this topic had not taken place.
