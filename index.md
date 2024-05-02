@@ -1,4 +1,5 @@
 ---
+title: Anatomy of Solidarit
 description: Anatomy of Solidarity in United Nations Voting
 show_downloads: false
 google_analytics:
