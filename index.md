@@ -1,14 +1,8 @@
 ---
-# layout: default
+layout: default
 # title: Another page
 # description: This is just another page
 permalink: /un/upc
----
-
----
-layout: default
-title: Another page
-description: This is just another page
 ---
 
 # Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023) - the first article in the series.
