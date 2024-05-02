@@ -4,7 +4,6 @@ description: Anatomy of Solidarity in United Nations Voting
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-# permalink: /upc
 ---
 
 # 1. Ukraine Political Conditions (2022–2023) - Research Highlights
@@ -14,12 +13,12 @@ This is the first article in a series dedicated to the study of the nature of po
 
 List of resolutions examined in this study:
 
-* [A/RES/ES-11/6](https://digitallibrary.un.org/record/4003921) Principles of the Charter of the United Nations underlying a comprehensive, just and lasting peace in Ukraine / 2023–02–23
-* [A/RES/ES-11/5](https://digitallibrary.un.org/record/3994052) Furtherance of remedy and reparation for aggression against Ukraine / 2022–11–14
-* [A/RES/ES-11/4](https://digitallibrary.un.org/record/3990400) Territorial integrity of Ukraine : defending the principles of the Charter of the United Nations / 2022–10–12
-* [A/RES/ES-11/3](https://digitallibrary.un.org/record/3967778) Suspension of the rights of membership of the Russian Federation in the Human Rights Council / 2022–04–07
-* [A/RES/ES-11/2](https://digitallibrary.un.org/record/3965954) Humanitarian consequences of the aggression against Ukraine / 2022–03–24
-* [A/RES/ES-11/1](https://digitallibrary.un.org/record/3959039) Aggression against Ukraine / 2022–03–02
+* [A/RES/ES-11/6](https://digitallibrary.un.org/record/4003921){:target="_blank"} Principles of the Charter of the United Nations underlying a comprehensive, just and lasting peace in Ukraine / 2023–02–23
+* [A/RES/ES-11/5](https://digitallibrary.un.org/record/3994052){:target="_blank"} Furtherance of remedy and reparation for aggression against Ukraine / 2022–11–14
+* [A/RES/ES-11/4](https://digitallibrary.un.org/record/3990400){:target="_blank"} Territorial integrity of Ukraine : defending the principles of the Charter of the United Nations / 2022–10–12
+* [A/RES/ES-11/3](https://digitallibrary.un.org/record/3967778){:target="_blank"} Suspension of the rights of membership of the Russian Federation in the Human Rights Council / 2022–04–07
+* [A/RES/ES-11/2](https://digitallibrary.un.org/record/3965954){:target="_blank"} Humanitarian consequences of the aggression against Ukraine / 2022–03–24
+* [A/RES/ES-11/1](https://digitallibrary.un.org/record/3959039){:target="_blank"} Aggression against Ukraine / 2022–03–02
 
 In the General Assembly of the United Nations, a total of 193 countries can participate in the voting on resolutions. Each country has one vote. For more information about the participating countries in the UN General Assembly, please refer to the official UN website.
 
@@ -36,13 +35,17 @@ Quantitative analysis of `Solidarity Groups` is based on three indicators for ea
 * **GDP in current prices** (millions of US dollars), for the year 2021. This represents an estimate of the gross domestic product (GDP) of each country at current prices as of the end of 2021, measured in millions of US dollars. In tables and bar plots, this indicator will be denoted as **GDP, M$**.
 
 > [!NOTE]
-> These data were obtained from the [Statistical Yearbook 66th issue (2023)](https://unstats.un.org/UNSDWebsite/Publications/StatisticalYearbook/).
+> These data were obtained from the [Statistical Yearbook 66th issue (2023)](https://unstats.un.org/UNSDWebsite/Publications/StatisticalYearbook/){:target="_blank"}.
 
 Below in **Fig. 1** is the `Complete Solidarity Network`. This network is the key outcome of the study on voting regarding the theme of *Ukraine Political Conditions (2022–2023) in the UN*. Subsequently, in this article, the principles of constructing this network will be discussed, along with some research findings based on it.
 
-![MacDown Screenshot](https://raw.githubusercontent.com/alexbukreev/UN_USG_2024/main/usg_full_pre.jpg)
+![MacDown Screenshot](./res/upc_full_pre.jpg)
 
-**Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](https://raw.githubusercontent.com/alexbukreev/UN_USG_2023/main/usg_full.jpg)
+**Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](./res/upc_full.jpg){:target="_blank"}
+
+![MacDown Screenshot](./res/upc_full_pre.jpg)
+
+**Fig. 1** Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023). `Complete Solidarity Network` (Population). Node sizes correspond to population density. [Click to enlarge the full network image](./res/upc_full.jpg){:target="_blank"}
 
 > [!NOTE]
 > Download the `Complete Solidarity Network (Population)` in JPEG format [usg_full.jpg](https://raw.githubusercontent.com/alexbukreev/UN_USG_2023/main/usg_full.jpg).
