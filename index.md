@@ -501,4 +501,4 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 ## 5. Conclusion
 This article is the first in a series of articles titled “Anatomy of Solidarity in UN Voting: Ukraine Political Conditions (2022–2023).” Further publications are planned for each Solidarity Group separately, as well as a final comparative article on these groups.
 
-The terms used in this article can be found at the link [glossary.md](https://sobolsky.github.io/un/glossary){:target="_blank"}.
+The terms used in this article can be found at the link [Glossary](https://sobolsky.github.io/un/glossary){:target="_blank"}.
