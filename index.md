@@ -243,11 +243,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/-1-1-1-1-1-1_net_100_pre.jpg)
 
-**Fig. 4.1.1** Network of the -1–1–1–1–1–1 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/-1-1-1-1-1-1_net_100.jpg){:target="_blank"}
+**Fig. 4.1.1** Network of the -1–1–1–1–1–1 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/-1-1-1-1-1-1_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024_pre.jpg)
 
-**Map. 4.1.1** Countries of the -1-1-1-1-1-1 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024.png){:target="_blank"}
+**Map. 4.1.1** Countries of the -1-1-1-1-1-1 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/-1-1-1-1-1-1_map_2024.png){:target="_blank"}
 
 ### 4.2 Группа полной солидарности 00–10–10
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **00–10–10** includes **4** UNGA member countries:
@@ -258,11 +258,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/00–10–10_net_100_pre.jpg)
 
-**Fig. 4.2.1** Network of the 00–10–10 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/00–10–10_net_100.jpg){:target="_blank"}
+**Fig. 4.2.1** Network of the 00–10–10 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/00–10–10_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/00-10-10_map_2024_pre.jpg)
 
-**Map. 4.2.1** Countries of the 00–10–10 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/00-10-10_map_2024.png){:target="_blank"}
+**Map. 4.2.1** Countries of the 00–10–10 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/00-10-10_map_2024.png){:target="_blank"}
 
 ### 4.3 Group 00–1000
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **00–1000** includes **9** UNGA member countries:
@@ -273,11 +273,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/00–1000_net_100_pre.jpg)
 
-**Fig. 4.3.1** Network of the 00–1000 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/00-1000_net_100.jpg){:target="_blank"}
+**Fig. 4.3.1** Network of the 00–1000 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/00-1000_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/00-1000_map_2024_pre.jpg)
 
-**Map. 4.3.1** Countries of the 00–1000 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/00-1000_map_2024.png){:target="_blank"}
+**Map. 4.3.1** Countries of the 00–1000 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/00-1000_map_2024.png){:target="_blank"}
 
 ### 4.4 Group 000000
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **000000** includes **9** UNGA member countries (the countries in this group abstained from voting on all resolutions):
@@ -288,11 +288,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/000000_net_100_pre.jpg)
 
-**Fig. 4.4.1** Network of the 0000000 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/000000_net_100.jpg){:target="_blank"}
+**Fig. 4.4.1** Network of the 0000000 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/000000_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/000000_map_2024_pre.jpg)
 
-**Map. 4.4.1** Countries of the 000000 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/000000_map_2024.png){:target="_blank"}
+**Map. 4.4.1** Countries of the 000000 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/000000_map_2024.png){:target="_blank"}
 
 ### 4.5 Group 100101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **100101** includes **2** UNGA member countries:
@@ -303,11 +303,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/100101_net_100_pre.jpg)
 
-**Fig. 4.5.1** Network of the 100101 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/100101_net_100.jpg){:target="_blank"}
+**Fig. 4.5.1** Network of the 100101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/100101_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/100101_map_2024_pre.jpg)
 
-**Map. 4.5.1** Countries of the 100101 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/100101_map_2024.png){:target="_blank"}
+**Map. 4.5.1** Countries of the 100101 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/100101_map_2024.png){:target="_blank"}
 
 ### 4.6 Group 110001
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110001** includes **2** UNGA member countries:
@@ -318,11 +318,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/110001_net_100_pre.jpg)
 
-**Fig. 4.6.1** Network of the 110001 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110001_net_100.jpg){:target="_blank"}
+**Fig. 4.6.1** Network of the 110001 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110001_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110001_map_2024_pre.jpg)
 
-**Map. 4.6.1** Countries of the 110001 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/110001_map_2024.png){:target="_blank"}
+**Map. 4.6.1** Countries of the 110001 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/110001_map_2024.png){:target="_blank"}
 
 
 ### 4.7 Group 110101
@@ -334,11 +334,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/110101_net_100_pre.jpg)
 
-**Fig. 4.7.1** Network of the 110101 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110101_net_100.jpg){:target="_blank"}
+**Fig. 4.7.1** Network of the 110101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110101_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110101_map_2024_pre.jpg)
 
-**Map. 4.7.1** Countries of the 1101011 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/1101011_map_2024.png){:target="_blank"}
+**Map. 4.7.1** Countries of the 1101011 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/1101011_map_2024.png){:target="_blank"}
 
 ### 4.8 Group 110111
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **110111** includes **10** UNGA member countries:
@@ -349,11 +349,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/110111_net_100_pre.jpg)
 
-**Fig. 4.8.1** Network of the 110111 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110111_net_100.jpg){:target="_blank"}
+**Fig. 4.8.1** Network of the 110111 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/110111_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/110111_map_2024_pre.jpg)
 
-**Map. 4.8.1** Countries of the 110111 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/110111_map_2024.png){:target="_blank"}
+**Map. 4.8.1** Countries of the 110111 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/110111_map_2024.png){:target="_blank"}
 
 ### 4.9 Group 111101
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **111101** includes **10** UNGA member countries:
@@ -364,11 +364,11 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/111101_net_100_pre.jpg)
 
-**Fig. 4.9.1** Network of the 111101 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111101_net_100.jpg){:target="_blank"}
+**Fig. 4.9.1** Network of the 111101 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111101_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111101_map_2024_pre.jpg)
 
-**Map. 4.9.1** Countries of the 111101 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/111101_map_2024.png){:target="_blank"}
+**Map. 4.9.1** Countries of the 111101 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/111101_map_2024.png){:target="_blank"}
 
 ### 4.10 Group 111111
 The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Profile of **111111** includes **76** UNGA member countries (The countries in this group voted in favor of all 6 resolutions):
@@ -379,8 +379,8 @@ The `Complete Solidarity Group` of countries (100% solidarity) with a Voting Pro
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/net_pict/111111_net_100_pre.jpg)
 
-**Fig. 4.10.1** Network of the 111111 group (node sizes correspond to population density).[Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111111_net_100.jpg){:target="_blank"}
+**Fig. 4.10.1** Network of the 111111 group (node sizes correspond to population density). [Click to enlarge the image](res/single_group_short_reports/pict/net_pict/111111_net_100.jpg){:target="_blank"}
 
 ![MacDown Screenshot](res/single_group_short_reports/pict/111111_map_2024_pre.jpg)
 
-**Map. 4.10.1** Countries of the 111111 group on the map and the relative distribution of population density within them.[Click to enlarge the image](res/single_group_short_reports/pict/111111_map_2024.png){:target="_blank"}
+**Map. 4.10.1** Countries of the 111111 group on the map and the relative distribution of population density within them. [Click to enlarge the image](res/single_group_short_reports/pict/111111_map_2024.png){:target="_blank"}
